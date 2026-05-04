@@ -1,5 +1,5 @@
 # Virtual-drag-and-drop
-利用OpenCV 及 Mediapipe 實現簡易手勢操作
+利用OpenCV 及 Mediapipe 實現簡易手勢滑動視窗的操作
 
 ## 專案簡述
 本專案基於 Python 與電腦視覺技術開發的虛擬互動介面，靈感來自於《鋼鐵人》電影中的全像投影 HUD。使用者可以透過網路攝影機，使用手勢直接在空氣中拖拽、移動虛擬視窗。
