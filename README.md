@@ -38,7 +38,11 @@
 * **基礎視窗滑動效果**
 
 
-https://github.com/user-attachments/assets/cd18c104-0140-44f3-83ba-c2642bd0055d
+
+
+https://github.com/user-attachments/assets/310d47d5-69e6-4eeb-8d1e-425e53947c73
+
+
 
 
 * **新增視窗效果**
