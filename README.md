@@ -18,6 +18,10 @@
 ## 實作成果
 
 
+https://github.com/user-attachments/assets/79c44e55-4755-4161-81df-f3c9f25a3465
+
+
+
 ## 參考資料
 1. https://github.com/LatchuBright1402/AI-Virtual-Drag-and-Drop/blob/main/VirtualDragAndDrop.py
 2. https://www.youtube.com/watch?v=21ATgwVwfWo&t=27s
